@@ -24,9 +24,8 @@ Pinneapple on pizza:
 * mountain trimps
 
 ### You can always count on me when...
-you want to exchange some words :)
-
-you need some help.
+*you want to exchange some words :)
+*you need some help.
 
 ### A funny story
 My cousin and I went into a lake and someone stole our clothes, we had to go home in panties.
