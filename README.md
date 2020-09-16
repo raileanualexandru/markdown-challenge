@@ -13,8 +13,8 @@
 | Pinneapple on pizza: | yes/no |  
 
 Pinneapple on pizza: 
-- [x] yes
-- [ ] no
+- [ ] yes
+- [x] no
 ### Hobbies
 * watching movies
     * Edge of Tomorrow
